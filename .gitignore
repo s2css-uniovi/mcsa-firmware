@@ -1,0 +1,6 @@
+build/
+.devcontainer/
+.vscode/
+sdkconfig.ci
+sdkconfig.old
+main/secrets.h
